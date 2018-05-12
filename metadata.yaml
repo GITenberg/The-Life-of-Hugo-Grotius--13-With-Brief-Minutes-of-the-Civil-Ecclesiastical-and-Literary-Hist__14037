@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5339
     wikipedia: http://en.wikipedia.org/wiki/Charles_Butler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14037#The-Life-of-Hugo-Grotius--13-With-Brief-Minutes-of-the-Civil-Ecclesiastical-and-Literary-Hist_
 gutenberg_issued: '2004-11-13'
 gutenberg_type: Text
 identifiers:
