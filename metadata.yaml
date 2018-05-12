@@ -1,0 +1,29 @@
+_repo: The-Life-of-Hugo-Grotius--13-With-Brief-Minutes-of-the-Civil-Ecclesiastical-and-Literary-Hist__14037
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Butler, Charles
+    birthdate: 1750
+    deathdate: 1832
+    gutenberg_agent_id: '5339'
+    url: http://www.gutenberg.org/2009/agents/5339
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Butler
+description: ''
+gutenberg_issued: '2004-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14037'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Netherlands -- History'
+- !lcc 'DH'
+- !lcsh 'Grotius, Hugo, 1583-1645'
+title: "The Life of Hugo Grotius\r\nWith Brief Minutes of the Civil, Ecclesiastical,\
+  \ and Literary History of the Netherlands"
+url: http://www.gutenberg.org/ebooks/14037
